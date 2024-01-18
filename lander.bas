@@ -1,3 +1,4 @@
+' Compile fbc -mt lander.bas
 ' LANDER by redcrab version 1.4.1
 ' FreeBASIC code to be compile with FBC v 0.17  http://www.freebasic.net
 ' 2007 redcrab@infonie.fr http://csgp.suret.net
